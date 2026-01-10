@@ -13,12 +13,12 @@ Me apasiona construir soluciones digitales que impacten. Actualmente enfocado en
 
 ## 🚀 Frameworks y Librerías (Back-end & Front-end)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,express,dotnet,react,bootstrap,node,html,css" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,dotnet,react,bootstrap,nodejs,html,css" alt="Frameworks" />
 </p>
 
 ## 🗄️ Base de Datos y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,git,github,vscode,postman,trello" alt="DB & Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,trello" alt="DB & Tools" />
 </p>
 ## 🌟 Proyectos Destacados
 
