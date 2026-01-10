@@ -1,11 +1,11 @@
-# ¡Hola! Soy Mario Ricotti 👋
+# Hola! Soy Mario Ricotti 👋
 
-### Desarrollador Full Stack | Creador de Mardigitals 
+### Desarrollador Full Stack  | Creador de MAR digitals
+
 <p align="center">
-  <img src="logo-mar-digitals.png" alt="Mar Digitals Logo" width="200px" />
+    <img src="logo-mar-digitals.png" alt="Mar Digitals Logo" width="150px" />
 </p>
 
-Me apasiona construir soluciones digitales que impacten. Actualmente enfocado en proyectos reales y escalables.
 
 ---
 
@@ -23,21 +23,19 @@ Me apasiona construir soluciones digitales que impacten. Actualmente enfocado en
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,trello" alt="DB & Tools" />
 </p>
-## 🌟 Proyectos Destacados
+
+## 🌟 Últimos Proyectos 
 
 ###  [arqestudiora.com](https://arqestudiora.com)
 **Proyecto en Producción.** Desarrollo de interfaz y despliegue para un Estudio de Arquitectura en crecimiento.
-- **Tecnologías:** Node en automatizaciones.
-- [Ver Repositorio](link repo)
+- **Tecnologías:** Node.js en automatizaciones.
+-  [Ver Repositorio](link repo)
 
-###  Mardigitals - Software and Web dev
-**Agencia de Soluciones Digitales** | Impulsando el crecimiento de negocios en el ecosistema digital mediante tecnología estratégica, desarrollo a medida y optimización de procesos.
-<p align="center">
-  <img src="logo-mar-digitals.png" alt="Mar Digitals Logo" width="200px" />
-</p>
 
-* 🌐 **Servicios:** Desarrollo Web, Automatizaciones y Estrategia Digital.
-* 📸 **Instagram:** [@mardigitals](https://www.instagram.com/mardigitals.arg)
+
+
+
+
 
 
 ##  Conéctate conmigo
@@ -55,3 +53,11 @@ Me apasiona construir soluciones digitales que impacten. Actualmente enfocado en
    
 </p>
 <p></p>
+
+## 
+
+<p align="center"><strong><em>Software and Web dev</strong></em></p>
+<p align="center">
+  <img src="logo-mar-digitals.png" alt="Mar Digitals Logo" width="120px" />
+</p>
+<p align="center"><em>Agencia de Soluciones Digitales | 2026.<em></p>
