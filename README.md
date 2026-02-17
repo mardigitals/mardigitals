@@ -29,8 +29,10 @@
 ###  [arqestudiora.com](https://arqestudiora.com)
 **Proyecto en Producción.** Desarrollo de interfaz y despliegue para un Estudio de Arquitectura en crecimiento.
 - **Tecnologías:** Node.js en automatizaciones.
--  [Ver Repositorio](link repo)
 
+<a href="https://github.com/mardigitals/web-estudio-ra" target="_blank" > 
+    <p> Ver Repositorio</p>
+</a>
 
 
 
@@ -44,12 +46,15 @@
   <a href="https://www.linkedin.com/in/mario-ricotti" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="mailto:maritoricotti@gmail.com" target="_blank">
+  <a href="mailto:mardigitals.arg@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
   <a href="https://www.instagram.com/mardigitals.arg" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
+    <a href='https://wa.me/5493492247130?text=Hola%20Mario!%20Vengo%20de%20tu%20portfolio%20y%20me%20gustar%C3%ADa%20hacerte%20una%20consulta.',
+     target="_blank">
+  <img height="40" alt="whatsapp" src="https://github.com/user-attachments/assets/3499f1d3-9ad6-4034-81aa-4ab4c162bb39" />
    
 </p>
 <p></p>
