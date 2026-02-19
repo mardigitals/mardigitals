@@ -1,11 +1,15 @@
 # Hola! Soy Mario Ricotti 👋
 
-### Desarrollador Full Stack  | Creador de MAR digitals
+### Desarrollador Full Stack  |  MAR digitals
 
 <p align="center">
     <img src="logo-mar-digitals.png" alt="Mar Digitals Logo" width="150px" />
 </p>
 
+### 🌟 Mi PORTFOLIO 
+
+##  [mardigitals.netlify.app](https://mardigitals.netlify.app/)
+### [repositorio](https://github.com/mardigitals/portfolio-mardigitals)
 
 ---
 
@@ -26,17 +30,10 @@
 
 ## 🌟 Últimos Proyectos 
 
-###  [arqestudiora.com](https://arqestudiora.com)
+##  [arqestudiora.com](https://arqestudiora.com)
+### [repositorio](https://github.com/mardigitals/web-estudio-ra)
 **Proyecto en Producción.** Desarrollo de interfaz y despliegue para un Estudio de Arquitectura en crecimiento.
 - **Tecnologías:** Node.js en automatizaciones.
-
-<a href="https://github.com/mardigitals/web-estudio-ra" target="_blank" > 
-    <p> Ver Repositorio</p>
-</a>
-
-
-
-
 
 
 
